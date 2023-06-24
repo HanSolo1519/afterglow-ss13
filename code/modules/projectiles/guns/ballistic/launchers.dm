@@ -204,7 +204,6 @@
 /obj/item/gun/ballistic/fatman
 	name = "fatman"
 	desc =  "a man-portable launcher for tactical nuclear ordnance. what's not to love?"
-	icon = 'modular_coyote/icons/objects/gun.dmi'
 	icon_state = "fatman"
 	item_state = "rocketlauncher" //not sure where it is or if this works. hopefully.
 	mag_type = /obj/item/ammo_box/magazine/internal/mininuke
