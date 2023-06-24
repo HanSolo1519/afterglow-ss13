@@ -42,6 +42,5 @@
 /obj/item/ammo_casing/caseless/mininuke
 	name = "\improper Mininuke"
 	desc = "That's a mininuke. it's more of a tactical demolition weapon than antipersonal, but when has that ever stopped anyone?"
-	icon = 'modular_coyote/icons/objects/c13ammo.dmi'
 	icon_state = "nuclear"
 	projectile_type = /obj/item/projectile/bullet/mininuke
