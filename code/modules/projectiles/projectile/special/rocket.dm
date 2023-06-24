@@ -142,7 +142,6 @@
 /obj/item/projectile/bullet/mininuke
 	name ="\improper mininuke"
 	desc = "Boom plus plus plus."
-	icon = 'modular_coyote/icons/objects/c13ammo.dmi'
 	icon_state = "nuclear"
 	damage = 200 //at this point, it's a mercy kill. you're at ground zero. the big number is more for looking big when examined, and mininukes have always had high direct damage
 	ricochets_max = 0 //nO
