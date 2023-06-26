@@ -542,10 +542,10 @@ Weapons		Service Rifle, Grease Gun, 9mm pistol, all good.
 /// Rangers ///
 ///////////////
 
-// VETERAN RANGER
+// CHEIF RANGER
 
-/datum/job/ncr/f13vetranger
-	title = "NCR Veteran Ranger"
+/datum/job/ncr/f13chfranger
+	title = "NCR Cheif Ranger"
 	flag = F13VETRANGER
 	total_positions = 1
 	spawn_positions = 1
