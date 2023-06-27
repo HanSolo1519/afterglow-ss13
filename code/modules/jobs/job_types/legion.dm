@@ -978,18 +978,18 @@ Weapons		Lever shotgun, Grease gun, Repeater carbines, Revolvers, simple guns al
 // Immunes are mostly an off-duty role meant to attend to the camp itself and the slaves or prisoners within.
 
 /datum/job/CaesarsLegion/Legionnaire/f13immune
-	title = "Legion Off-Duty"
+	title = "Legion Camp-Duty"
 	flag = F13IMMUNE
 	total_positions = 4
 	spawn_positions = 4
-	description = "An Immune is a legionnaire temporarily assigned to keeping the camp in order, according to their tasking on any given week."
-	supervisors = "the Centurion."
+	description = "You answer to any member of the Legion that is currently on-duty, but take orders directly from the Auxilia around the camp. Your diligence in serving Caesar as one of his Legionaries has earnt you a break; light camp duty. You may perform any tasks required of you, for you know how to serve the Legion well, but remember to rest, your time on the battlefield will return shortly."
+	supervisors = "the Centurion, the Auxilia."
 	display_order = JOB_DISPLAY_ORDER_IMMUNE
 	outfit = /datum/outfit/job/CaesarsLegion/Legionnaire/f13immune
 	exp_requirements = 150
 
 /datum/outfit/job/CaesarsLegion/Legionnaire/f13immune
-	name = "Legion Off-Duty"
+	name = "Legion Camp-Duty"
 	jobtype = /datum/job/CaesarsLegion/Legionnaire/f13immune
 	id = /obj/item/card/id/dogtag/legimmune
 	mask = /obj/item/clothing/mask/bandana/legion/camp
