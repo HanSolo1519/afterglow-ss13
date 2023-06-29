@@ -2143,6 +2143,7 @@ obj/effect/spawner/bundle/f13/combat_rifle
 	lootcount = 1
 	loot = list(
 		/obj/item/book/granter/crafting_recipe/blueprint/leveraction,
+		/obj/item/book/granter/crafting_recipe/blueprint/empgrenade,
 		/obj/item/book/granter/crafting_recipe/blueprint/r91,
 		/obj/item/book/granter/crafting_recipe/blueprint/r84,
 		/obj/item/book/granter/crafting_recipe/blueprint/deagle,
