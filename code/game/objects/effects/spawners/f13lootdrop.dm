@@ -1670,8 +1670,7 @@ obj/effect/spawner/bundle/f13/combat_rifle
 	loot = list(
 				/obj/item/grenade/f13/frag = 30,
 				/obj/item/grenade/flashbang,
-				/obj/item/grenade/f13/stinger,
-				/obj/item/grenade/empgrenade = 50
+				/obj/item/grenade/f13/stinger
 				)
 
 /obj/effect/spawner/lootdrop/f13/bomb/tier3
