@@ -15,6 +15,7 @@ here's a tip, go search DEFINES/access.dm
 	name = "Nash Default Template"
 	ears = /obj/item/radio/headset/headset_town
 	id = /obj/item/card/id/dogtag/town
+	belt = /obj/item/kit_spawner/waster
 	uniform = /obj/item/clothing/under/f13/settler
 	shoes = /obj/item/clothing/shoes/jackboots
 	backpack = /obj/item/storage/backpack/satchel/explorer
@@ -80,6 +81,7 @@ Mayor
 	jobtype = /datum/job/oasis/f13mayor
 	id = /obj/item/card/id/silver/mayor
 	ears = /obj/item/radio/headset/headset_town/mayor
+	belt = /obj/item/kit_spawner/waster
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/oasis
@@ -137,6 +139,7 @@ Mayor
 	glasses = /obj/item/clothing/glasses/regular/hipster
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/leather
+	belt = /obj/item/kit_spawner/waster
 	satchel = /obj/item/storage/backpack/satchel/leather
 	r_hand = /obj/item/storage/briefcase/secretary
 	l_pocket = /obj/item/storage/bag/money/small/settler
@@ -232,6 +235,7 @@ Mayor
 	id = /obj/item/card/id/dogtag/sheriff
 	ears = /obj/item/radio/headset/headset_town/lawman
 	backpack = /obj/item/storage/backpack/satchel/explorer
+	belt = /obj/item/kit_spawner/waster
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	uniform = /obj/item/clothing/under/f13/sheriff
 	shoes = /obj/item/clothing/shoes/f13/cowboy
@@ -327,6 +331,7 @@ Mayor
 	l_pocket = /obj/item/storage/bag/money/small/settler
 	r_pocket = /obj/item/flashlight/flare
 	shoes = /obj/item/clothing/shoes/f13/explorer
+	belt = /obj/item/kit_spawner/waster
 	uniform = /obj/item/clothing/under/f13/cowboyb
 	backpack_contents = list(
 		/obj/item/storage/pill_bottle/chem_tin/radx,
@@ -505,6 +510,7 @@ Mayor
 	neck = /obj/item/clothing/neck/stethoscope
 	suit = /obj/item/clothing/suit/toggle/labcoat
 	head = /obj/item/clothing/head/beret/chem
+	belt = /obj/item/kit_spawner/waster
 	backpack = /obj/item/storage/backpack/medic
 	satchel = /obj/item/storage/backpack/satchel/med
 	shoes = /obj/item/clothing/shoes/sneakers/white
@@ -575,6 +581,7 @@ Mayor
 	ears = /obj/item/radio/headset/headset_town/commerce
 	shoes = /obj/item/clothing/shoes/workboots/mining
 	backpack = /obj/item/storage/backpack/satchel/leather
+	belt = /obj/item/kit_spawner/waster
 	backpack_contents = list(
 		/obj/item/storage/pill_bottle/chem_tin/radx,
 		/obj/item/storage/bag/money/small/settler = 1,
@@ -658,6 +665,7 @@ Mayor
 	shoes = /obj/item/clothing/shoes/jackboots
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	r_pocket = /obj/item/flashlight/flare
+	belt = /obj/item/kit_spawner/waster
 	backpack_contents = list(
 		/obj/item/storage/pill_bottle/chem_tin/radx,
 		/obj/item/storage/bag/money/small/settler = 1,
@@ -774,6 +782,7 @@ Mayor
 	head = /obj/item/clothing/head/f13/det_hat_alt
 	ears = /obj/item/radio/headset/headset_town/lawman
 	shoes = /obj/item/clothing/shoes/laceup
+	belt = /obj/item/kit_spawner/waster
 	id = /obj/item/card/id/silver
 	l_pocket = /obj/item/storage/bag/money/small/settler
 	r_pocket = /obj/item/flashlight/flare
@@ -817,7 +826,6 @@ Mayor
 	name = "Banker"
 	jobtype = /datum/job/oasis/f13banker
 	belt = /obj/item/kit_spawner/lawman
-
 	uniform = /obj/item/clothing/under/lawyer/blacksuit
 	id = /obj/item/card/id/silver
 	ears = /obj/item/radio/headset/headset_town/commerce
@@ -908,6 +916,7 @@ Mayor
 	id = /obj/item/card/id/dogtag/town
 	ears = /obj/item/radio/headset/headset_town/commerce
 	uniform = /obj/item/clothing/under/f13/roving
+	belt = /obj/item/kit_spawner/waster
 	backpack = /obj/item/storage/backpack
 	satchel = /obj/item/storage/backpack/satchel
 	duffelbag = /obj/item/storage/backpack/duffelbag
@@ -1003,6 +1012,7 @@ Mayor
 	jobtype = /datum/job/oasis/f13shopkeeper
 	id = /obj/item/card/id/dogtag/town
 	ears = /obj/item/radio/headset/headset_town/commerce
+	belt = /obj/item/kit_spawner/waster
 	uniform = /obj/item/clothing/under/f13/roving
 	backpack = /obj/item/storage/backpack
 	satchel = /obj/item/storage/backpack/satchel
